@@ -1,0 +1,6 @@
+# NFT商城/NFT盲盒/铸造/转售/可定制二开（仿鲸探含VUE）
+
+特别说明：<br>1、本店源码均有演示，所有功能以演示站为准，所有购买前请看好演示站，购买后不能以源码不符合要求退款；<br>2、源码为虚拟产品，请多看演示再拍，以免纠纷；<br>3、小白请慎拍，如果你是小白一定要和客服沟通，不会搭建可以拍搭建，我们帮助搭建；<br>4、源码修改，定制，服务器域名APP封装等都是付费服务，本商品只是提供单独源码和搭建服务。<br>5、可直接运营版全部源码，非垃圾源码拒绝比价格。<br>演示站：<br>前台链接：http://example.com.example.com/h5<br>前台帐号：18688888888<br>前台密码：123456<br>后台链接：http://example.com.example.com/example.com<br>联系客服获取登录账号和密码<br>前端框架：<br>带Uniappvue全开源<br>后端框架<br>TP5 FastAdmin框架<br>部署<br>环境：example.com，example.com<br>环境：example.com.3，example.com<br>对接有以太链、支付宝支付、微信支付、短信齐全<br>只出源码，不包对接各配置<br>发售：藏品发售购买交易<br>二级市场：用户的藏品可以直接挂售到二级市场商城<br>赠送功能：用户之间可以直接赠与<br>盲盒：购买盲盒随机抽取藏品<br>合成：购买碎片后可以合成对应的艺术品，后台设置<br>空投：后台空投藏品<br>邀请满多少人赠送藏品，自动赠送<br>另有功能，以演示站为准<br>免责声明：<br>1：本店所开发出售软件源代码仅限于开发学习交流，不提供任何商业运营维护服务。<br>2：若购买方私自二次开发修改，转让，用于商业运营或非法用途等行为，与我方无关。<br>3：购买前请仔细阅读本声明，购买则表示您已阅读并同意本声明的以上所有条款之约定。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/17Nuv" style="color: red;">https://mega-file.org/17Nuv</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
